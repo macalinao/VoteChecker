@@ -1,0 +1,10 @@
+name: VoteChecker
+main: com.simplyian.mc.votechecker.VoteChecker
+authors:
+  - AlbireoX
+description: Vote checker
+version: 0.1
+commands:
+  vc:
+    description: Vote checker - reloads the checker
+    usage: /vc
